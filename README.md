@@ -2,7 +2,7 @@
 
 VUA-SEN307 Database Systems
 
-Name: Msurshima [Your Full Name]
+Name: Tyagher Msurshima
 
 Matric Number: 11923
 
